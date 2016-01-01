@@ -1,5 +1,5 @@
 # TipCalculator
-My first repository on GitHub.
+My first repository on GitHub. @codepathreview
 
 # Pre-work - TipCalculator
 
@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The only challenged I faced while completing this application was getting stuck on the objectiveC class part and I learned that I should read the instructions more clearly because the solution was there.
+The only challenge I faced while completing this application was getting stuck on the objectiveC class part and I learned that I should read the instructions more clearly because the solution was there. I also found it really hard trying to upload my project onto gitHub and I just ended up adding the code here manually. 
 
 ## License
 
@@ -52,7 +52,8 @@ The only challenged I faced while completing this application was getting stuck 
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-//
+    
+    
 //  ViewController.swift
 //  tipscalculator
 //
